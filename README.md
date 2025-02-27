@@ -1,6 +1,6 @@
 # Critical-Data-Ingestion-Failure-Troubleshooting-Resolution
 the monitoring system alerted a critical issue with the data pipeline. Data ingestion was halted, leading to delays in data processing and availability.
-![DALL·E 2025-02-26 10.49.12 - A high-tech IT operations center with multiple large monitors displaying data pipeline status, incident alerts, and system logs. Engineers are activel.webp](attachment:9bbb7ba0-2da3-42e7-84fa-be7cfe12d1af:DALLE_2025-02-26_10.49.12_-_A_high-tech_IT_operations_center_with_multiple_large_monitors_displaying_data_pipeline_status_incident_alerts_and_system_logs._Engineers_are_activel.webp)
+
 
 # Incident Report
 
